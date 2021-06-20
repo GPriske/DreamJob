@@ -1,12 +1,13 @@
 {
   "resources": [
     {"id":{"name":"TestBeat","path":"sounds/TestBeat/TestBeat.yy",},"order":0,},
-    {"id":{"name":"oBeat","path":"objects/oBeat/oBeat.yy",},"order":4,},
+    {"id":{"name":"oTempo","path":"objects/oTempo/oTempo.yy",},"order":4,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":3,},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},"order":2,},
     {"id":{"name":"oCol","path":"objects/oCol/oCol.yy",},"order":2,},
     {"id":{"name":"Home","path":"rooms/Home/Home.yy",},"order":1,},
     {"id":{"name":"spr16x32","path":"sprites/spr16x32/spr16x32.yy",},"order":1,},
+    {"id":{"name":"TestBeat2","path":"sounds/TestBeat2/TestBeat2.yy",},"order":1,},
     {"id":{"name":"spr64x64","path":"sprites/spr64x64/spr64x64.yy",},"order":0,},
     {"id":{"name":"oCam","path":"objects/oCam/oCam.yy",},"order":1,},
     {"id":{"name":"PhoneScreen","path":"rooms/PhoneScreen/PhoneScreen.yy",},"order":0,},

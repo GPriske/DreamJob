@@ -1,6 +1,6 @@
 {
   "compression": 1,
-  "volume": 0.56,
+  "volume": 0.16,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "TestBeat.wav",
-  "duration": 30.005,
+  "soundFile": "TestBeat2.wav",
+  "duration": 16.005,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "TestBeat",
+  "name": "TestBeat2",
   "tags": [],
   "resourceType": "GMSound",
 }
