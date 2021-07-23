@@ -1,15 +1,21 @@
 {
   "resources": [
     {"id":{"name":"TestBeat","path":"sounds/TestBeat/TestBeat.yy",},"order":0,},
+    {"id":{"name":"oInputMaster","path":"objects/oInputMaster/oInputMaster.yy",},"order":6,},
     {"id":{"name":"oTempo","path":"objects/oTempo/oTempo.yy",},"order":4,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":3,},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},"order":2,},
     {"id":{"name":"oCol","path":"objects/oCol/oCol.yy",},"order":2,},
     {"id":{"name":"Home","path":"rooms/Home/Home.yy",},"order":1,},
     {"id":{"name":"spr16x32","path":"sprites/spr16x32/spr16x32.yy",},"order":1,},
+    {"id":{"name":"oDragables","path":"objects/oDragables/oDragables.yy",},"order":5,},
     {"id":{"name":"TestBeat2","path":"sounds/TestBeat2/TestBeat2.yy",},"order":1,},
+    {"id":{"name":"scr_input","path":"scripts/scr_input/scr_input.yy",},"order":0,},
     {"id":{"name":"spr64x64","path":"sprites/spr64x64/spr64x64.yy",},"order":0,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":1,},
     {"id":{"name":"oCam","path":"objects/oCam/oCam.yy",},"order":1,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":0,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":0,},
     {"id":{"name":"PhoneScreen","path":"rooms/PhoneScreen/PhoneScreen.yy",},"order":0,},
   ],
   "Options": [
@@ -26,9 +32,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"Home","path":"rooms/Home/Home.yy",},},
     {"roomId":{"name":"PhoneScreen","path":"rooms/PhoneScreen/PhoneScreen.yy",},},
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":13,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -46,6 +52,8 @@
     {"folderPath":"folders/Notes.yy","order":11,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":12,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Basic Collisions.yy","order":1,"resourceVersion":"1.0","name":"Basic Collisions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Tests.yy","order":2,"resourceVersion":"1.0","name":"Tests","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Sleeping.yy","order":3,"resourceVersion":"1.0","name":"Sleeping","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -55,7 +63,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "DreamJob",

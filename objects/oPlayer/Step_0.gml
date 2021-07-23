@@ -1,6 +1,4 @@
 
-image_index += oTempo.tempo
+image_index += oTempo.tempox16
 
 
-lagger = lagger*2
-lagger2 = point_distance(x,y,oCol.x,oCol.y)*lagger
