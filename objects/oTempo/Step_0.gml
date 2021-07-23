@@ -38,10 +38,16 @@ if instance_exists(oDragables)
 	{
 		if place_meeting(mouse_x,mouse_y,oDragables)
 		{
-		dragger = oDragables
-		dragger.dragged = 1
+			if dragger = self
+			{
+			dragger = instance_place(mouse_x,mouse_y,oDragables)
+			dragger.dragged = 1
+			}
 		}	
 	}
 	else
-	{dragger.dragged = 0}
+	{
+	dragger.dragged = 0
+	dragger = self	
+	}
 }
