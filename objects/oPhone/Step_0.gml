@@ -6,7 +6,7 @@ if scene = 1
 {
 	if level = 1
 	{
-	chars = 3
+	chars = 4
 	var shape = 0
 	var ranx = irandom_range(room_width/2,room_width-256)
 	var rany = irandom_range(256,room_height-256)

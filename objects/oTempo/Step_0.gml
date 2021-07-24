@@ -49,5 +49,14 @@ if instance_exists(oDragables)
 	{
 	dragger.dragged = 0
 	dragger = self	
+		if place_meeting(mouse_x,mouse_y,oDragables)
+		{
+			with instance_place(mouse_x,mouse_y,oDragables)
+			{
+			image_xscale = min(image_xscale+0.05,1.2)
+			image_yscale = min(image_yscale+0.05,1.2)
+			
+			}
+		}
 	}
 }

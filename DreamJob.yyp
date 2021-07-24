@@ -1,7 +1,6 @@
 {
   "resources": [
     {"id":{"name":"TestBeat","path":"sounds/TestBeat/TestBeat.yy",},"order":0,},
-    {"id":{"name":"oInputMaster","path":"objects/oInputMaster/oInputMaster.yy",},"order":6,},
     {"id":{"name":"oTempo","path":"objects/oTempo/oTempo.yy",},"order":4,},
     {"id":{"name":"oPhone","path":"objects/oPhone/oPhone.yy",},"order":7,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":3,},
