@@ -4,6 +4,7 @@
     {"id":{"name":"oTempo","path":"objects/oTempo/oTempo.yy",},"order":4,},
     {"id":{"name":"oPhone","path":"objects/oPhone/oPhone.yy",},"order":7,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":3,},
+    {"id":{"name":"oCoder","path":"objects/oCoder/oCoder.yy",},"order":8,},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},"order":2,},
     {"id":{"name":"oCol","path":"objects/oCol/oCol.yy",},"order":2,},
     {"id":{"name":"Home","path":"rooms/Home/Home.yy",},"order":1,},
